@@ -32,9 +32,9 @@ A repository to explore the use of ontology-based graphs (generated with MOWL) a
 ## Participants
 * Nelson David Quiñones Virgen, co-lead, orcid:0000-0002-5037-0443
 * Leyla Jael Castro, co-lead, orcid:0000-0003-3986-0510
-* Asmaa Alqhtani, participant, orcid: 
+* Asmaa Alqhtani, participant, orcid:0000-0002-3119-5109 
 * Rahaf Alayed, participant, orcid: 
-* Layan Aljohani, participant, orcid: 
+* Layan Aljohani, participant, orcid:0000-0001-6954-2973 
 * Maria G Gomez Castillo, participant, orcid: 
 
 
